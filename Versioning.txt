@@ -5,3 +5,9 @@ Beta
 RC
 RTM
 GA
+
+- Implemented all the basic Github operations using VSCode Environment
+- Created and Worked out all the github commands on the newly created Repository - https://github.com/AathanRW/Src
+- Forked a Repository and worked out all the basic github commands through VSCode - https://github.com/AathanRW/personal-blog-website
+- Understood the concepts of versioning and version control
+- Created a new repository and exercised versioning with various commits. - https://github.com/AathanRW/versioncontrol
