@@ -1,0 +1,7 @@
+Versioning
+
+Alpha
+Beta
+RC
+RTM
+GA
